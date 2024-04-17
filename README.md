@@ -1,1 +1,1 @@
-# SDAIA_ML_bootcamp_Assigments
+# SDAIA_ML_bootcamp_Assignments
